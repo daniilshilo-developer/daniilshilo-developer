@@ -1,0 +1,5 @@
+- 👦🏻 Hi, I’m @daniilshilo-developer
+- 👨🏻‍💻 I'm interested in Full-Stack Web Development
+- 🧨 I’m currently learning React, Vue.js, Django and many other frameworks
+- 🧤 I’m looking to collaborate on web projects
+- 📫 You can mail me at daniilshilo.developer@gmail.com
