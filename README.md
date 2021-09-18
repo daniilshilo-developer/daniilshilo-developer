@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript**
 
-- 📝 I regularly write articles on [my Telegram Blog](t.me/developer_log) and [VK Page](vk.com/daniilshilo_developer)
+- 📝 I regularly write articles on [my Telegram Blog](https://t.me/developer_log) and [VK Page](https://vk.com/daniilshilo_developer)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, React, Wordpress and another things**
 
