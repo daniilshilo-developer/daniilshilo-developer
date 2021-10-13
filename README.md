@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniilshilo-developer&label=Profile%20views&color=0e75b6&style=flat" alt="daniilshilo-developer" /> </p>
 
-- 🌱 I’m currently learning **React, Redux, Web App Architecture**
+- 🌱 I’m currently learning **React, Redux, Web App Architecture, Elelctron**
 
 - 📝 I regularly write articles on [my Telegram Blog](https://t.me/developer_log) and [VK Page](https://vk.com/daniilshilo_developer)
 
